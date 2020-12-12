@@ -11,7 +11,7 @@ class Vehicle #(Super class)
   end 
   
   def fill_up_tank #Instance methods 
-    "filling up"
+    "filling up!"
   end 
   
 end
