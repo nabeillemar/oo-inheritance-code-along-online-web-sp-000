@@ -1,4 +1,4 @@
-class Vehicle (Super class)
+class Vehicle #(Super class)
   attr_accessor :wheel_size, :wheel_number
   
   def initialize(wheel_size, wheel_number) #gets initialized 
